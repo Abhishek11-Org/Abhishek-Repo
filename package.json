@@ -29,7 +29,6 @@
     "lint-to-the-future-eslint": "^2.0.1",
     "magnific-popup": "1.1.0",
     "pikaday": "1.8.2",
-    "prettier": "^2.8.8",
     "puppeteer-core": "^21.0.3",
     "squoosh": "discourse/squoosh#dc9649d",
     "tidy-jsdoc": "^1.4.1",
