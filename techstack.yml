@@ -1,7 +1,7 @@
 repo_name: Abhishek11-Org/Abhishek-Repo
-report_id: d93092377da92aaf07a623a744e5b42e
+report_id: 8df053577a81b2d18056f183c3cd7ac3
 repo_type: Public
-timestamp: '2023-11-29T11:45:23+00:00'
+timestamp: '2023-12-06T17:21:19+00:00'
 requested_by: dabhi99
 provider: github
 branch: main
@@ -74,6 +74,15 @@ tools:
   hosted_saas: false
   image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
   detection_source: package.json
+- name: jsdoc
+  description: An API documentation generator for JavaScript
+  website_url: http://usejsdoc.org/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Documentation as a Service & Tools
+  image_url: https://img.stackshare.io/service/4047/js-doc.png
+  detection_source: package.json
 - name: "@fortawesome/fontawesome-free"
   description: The iconic font, CSS, and SVG framework
   package_url: https://www.npmjs.com/@fortawesome/fontawesome-free
@@ -108,17 +117,5 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: github.com/Abhishek11-Org/Abhishek-Repo/blob/main/package.json
-  detection_source: package.json
-- name: jsdoc
-  description: An API documentation generator for JavaScript
-  package_url: https://www.npmjs.com/jsdoc
-  version: 4.0.0
-  license: Apache-2.0
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/16017/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
   detection_source_url: github.com/Abhishek11-Org/Abhishek-Repo/blob/main/package.json
   detection_source: package.json
