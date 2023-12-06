@@ -7,6 +7,7 @@ Abhishek11-Org/Abhishek-Repo is built on the following main stack:
 - [TypeScript](http://www.typescriptlang.org) – Languages
 - [Font Awesome](https://fontawesome.com/) – Fonts
 - [ESLint](http://eslint.org/) – Code Review
+- [jsdoc](http://usejsdoc.org/) – Documentation as a Service & Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -20,6 +21,7 @@ Abhishek11-Org/Abhishek-Repo is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png' alt='Font Awesome'/> [Font Awesome](https://fontawesome.com/) – Fonts
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/4047/js-doc.png' alt='jsdoc'/> [jsdoc](http://usejsdoc.org/) – Documentation as a Service & Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -30,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Abhishek11-Org/Abhishek-Repo](https://github.com/Abhishek11-Org/Abhishek-Repo)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|11<br/>Tools used|11/29/23 <br/>Report generated|
+|11<br/>Tools used|12/06/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -84,7 +86,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (2)
+## Other (3)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png' alt='Font Awesome'>
@@ -102,20 +104,27 @@ Full tech stack [here](/techstack.md)
   <sub></sub>
 </td>
 
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/4047/js-doc.png' alt='jsdoc'>
+  <br>
+  <sub><a href="http://usejsdoc.org/">jsdoc</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
 </tr>
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (4)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (3)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (4)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (3)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[@fortawesome/fontawesome-free](https://www.npmjs.com/@fortawesome/fontawesome-free)|v5.15.4|N/A|N/A |CC-BY-4.0,OFL-1.1,MIT|N/A|
 |[chrome-remote-interface](https://www.npmjs.com/chrome-remote-interface)|v0.31.3|N/A|N/A |MIT|N/A|
 |[concurrently](https://www.npmjs.com/concurrently)|v8.2.1|N/A|N/A |MIT|N/A|
-|[jsdoc](https://www.npmjs.com/jsdoc)|v4.0.0|N/A|N/A |Apache-2.0|N/A|
 
 <br/>
 <div align='center'>
