@@ -1,7 +1,7 @@
 repo_name: Abhishek11-Org/Abhishek-Repo
-report_id: 8df053577a81b2d18056f183c3cd7ac3
+report_id: b4616e17da370cc63d770fbd49ffdff7
 repo_type: Public
-timestamp: '2023-12-06T17:21:19+00:00'
+timestamp: '2023-12-08T13:56:28+00:00'
 requested_by: dabhi99
 provider: github
 branch: main
@@ -17,6 +17,8 @@ tools:
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
   detection_source: package.json
+  last_updated_by: dabhi99
+  last_updated_on: 2023-11-07 11:20:06.000000000 Z
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
   website_url: http://www.typescriptlang.org
@@ -29,6 +31,8 @@ tools:
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
   detection_source_url: github.com/Abhishek11-Org/Abhishek-Repo/blob/main/package.json
   detection_source: package.json
+  last_updated_by: dabhi99
+  last_updated_on: 2023-11-07 11:20:06.000000000 Z
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
   website_url: http://eslint.org/
@@ -39,6 +43,8 @@ tools:
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
   detection_source: package.json
+  last_updated_by: dabhi99
+  last_updated_on: 2023-09-15 08:24:25.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -57,6 +63,8 @@ tools:
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
   detection_source: package.json
+  last_updated_by: dabhi99
+  last_updated_on: 2023-09-15 08:24:25.000000000 Z
 - name: Font Awesome
   description: The internet's most popular icon toolkit
   website_url: https://fontawesome.com/
@@ -68,12 +76,16 @@ tools:
   image_url: https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png
   detection_source_url: github.com/Abhishek11-Org/Abhishek-Repo/blob/main/package.json
   detection_source: package.json
+  last_updated_by: dabhi99
+  last_updated_on: 2023-11-07 12:38:42.000000000 Z
 - name: NPM Trends
   website_url: https://www.npmtrends.com/
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
   detection_source: package.json
+  last_updated_by: dabhi99
+  last_updated_on: 2023-09-15 08:24:25.000000000 Z
 - name: jsdoc
   description: An API documentation generator for JavaScript
   website_url: http://usejsdoc.org/
@@ -83,6 +95,8 @@ tools:
   sub_category: Documentation as a Service & Tools
   image_url: https://img.stackshare.io/service/4047/js-doc.png
   detection_source: package.json
+  last_updated_by: dabhi99
+  last_updated_on: 2023-11-07 11:20:06.000000000 Z
 - name: "@fortawesome/fontawesome-free"
   description: The iconic font, CSS, and SVG framework
   package_url: https://www.npmjs.com/@fortawesome/fontawesome-free
@@ -95,6 +109,8 @@ tools:
   image_url: https://img.stackshare.io/package/17170/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
   detection_source_url: github.com/Abhishek11-Org/Abhishek-Repo/blob/main/package.json
   detection_source: package.json
+  last_updated_by: dabhi99
+  last_updated_on: 2023-11-07 12:38:42.000000000 Z
 - name: chrome-remote-interface
   description: Chrome Debugging Protocol interface
   package_url: https://www.npmjs.com/chrome-remote-interface
@@ -107,6 +123,8 @@ tools:
   image_url: https://img.stackshare.io/package/18589/default_5c7de077cac4a68f32e17c8de98e761949c60ca1.png
   detection_source_url: github.com/Abhishek11-Org/Abhishek-Repo/blob/main/package.json
   detection_source: package.json
+  last_updated_by: dabhi99
+  last_updated_on: 2023-11-07 12:38:42.000000000 Z
 - name: concurrently
   description: Run commands concurrently
   package_url: https://www.npmjs.com/concurrently
@@ -119,3 +137,5 @@ tools:
   image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
   detection_source_url: github.com/Abhishek11-Org/Abhishek-Repo/blob/main/package.json
   detection_source: package.json
+  last_updated_by: dabhi99
+  last_updated_on: 2023-11-07 11:20:06.000000000 Z
