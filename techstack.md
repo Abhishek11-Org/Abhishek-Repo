@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Abhishek11-Org/Abhishek-Repo](https://github.com/Abhishek11-Org/Abhishek-Repo)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|11<br/>Tools used|12/06/23 <br/>Report generated|
+|11<br/>Tools used|12/08/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -122,9 +122,9 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[@fortawesome/fontawesome-free](https://www.npmjs.com/@fortawesome/fontawesome-free)|v5.15.4|N/A|N/A |CC-BY-4.0,OFL-1.1,MIT|N/A|
-|[chrome-remote-interface](https://www.npmjs.com/chrome-remote-interface)|v0.31.3|N/A|N/A |MIT|N/A|
-|[concurrently](https://www.npmjs.com/concurrently)|v8.2.1|N/A|N/A |MIT|N/A|
+|[@fortawesome/fontawesome-free](https://www.npmjs.com/@fortawesome/fontawesome-free)|v5.15.4|11/07/23|dabhi99 |CC-BY-4.0,OFL-1.1,MIT|N/A|
+|[chrome-remote-interface](https://www.npmjs.com/chrome-remote-interface)|v0.31.3|11/07/23|dabhi99 |MIT|N/A|
+|[concurrently](https://www.npmjs.com/concurrently)|v8.2.1|11/07/23|dabhi99 |MIT|N/A|
 
 <br/>
 <div align='center'>
